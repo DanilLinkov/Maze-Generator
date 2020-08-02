@@ -1,6 +1,6 @@
 # Maze-Generator
 
-Simulation can be run on : https://editor.p5js.org/danil.linkov/sketches/FYySWA4hO by clicking the play buttom top left
+Simulation can be run on : https://editor.p5js.org/danil.linkov/sketches/FYySWA4hO by clicking the play button top left
 
 Resource used : https://en.wikipedia.org/wiki/Maze_generation_algorithm
 
